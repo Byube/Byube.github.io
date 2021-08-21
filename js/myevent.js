@@ -11,5 +11,7 @@ function goProject(pro){
         window.open("https://github.com/Byube/Apiisfun");
     } else if(pro == 4){
         window.open("https://github.com/Byube/swa/tree/master/swa");
+    } else if (pro == 5){
+       
     }
 }
