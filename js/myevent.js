@@ -12,6 +12,8 @@ function goProject(pro){
     } else if(pro == 4){
         window.open("https://github.com/Byube/swa/tree/master/swa");
     } else if (pro == 5){
-       
+       alert("소스 공개 불가");
+    } else if (pro == 6){
+        window.open("https://www.grammarschool.ai/common/greeting.do");
     }
 }
